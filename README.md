@@ -1,0 +1,6 @@
+# ETH的BNB区块链的充值提现系统
+
+演示地址<br>后台http://example.com/example.com<br>账户admin<br>密码123456<br>前台<br>http://example.com/<br>下单前一定要联系客服<br>基于eth的bnb区块链的充值提现<br>wap + h5<br>采用的是前后端分离的<br>后端：php+ mysql + nginx<br>前端 vue+webpack+web3<br>代码结构清晰有能力的可以进行二开<br>系统说明<br>后台功能很简单<br>设置收款钱包的钱包地址和私钥和heyue代笔<br>会员列表、资金明显、提现记录等等<br>前台主要是heyue代笔的充值提现，完善的会员模块，<br>充值模块：前端充值后端查询，<br>提现模块：前端会员发起提现，后端php处理链上转账<br>完整的UI页面，可根据自己的业务需要进行二开<br>购买须知：购买后表示同意接受以下条款<br>注意！注意！注意！重要事情说三遍<br>本系统仅限购买者研究学习请勿商用,拿去用途如有违反国家法律之类由买家自行承担一切与本店无关。<br>本系统仅限购买者研究学习请勿商用,拿去用途如有违反国家法律之类由买家自行承担一切与本店无关。<br>本系统仅限购买者研究学习请勿商用,拿去用途如有违反国家法律之类由买家自行承担一切与本店无关。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/aXSKU" style="color: red;">https://mega-file.org/aXSKU</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
